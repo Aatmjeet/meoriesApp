@@ -3,6 +3,7 @@
 ## Front end based on React, Axios(api), Redux, Redux-thunk
 ## Backend based on NodeJs, Express, Mongoose and Nodemon
 ## Database is MongoDb based with mongoose for node integeration
+## Notes.md contains note of my obseration while making the App
 
 ## To install and Run
 ## Client
